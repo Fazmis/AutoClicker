@@ -1,3 +1,3 @@
 # MyProjects
-My first steps on Git
-Мои первые шаги на гите :D
+#My first steps on Git
+#Мои первые шаги на гите :D
